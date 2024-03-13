@@ -134,7 +134,8 @@ Code scanning, powered by CodeQL, automatically analyzes your code for security 
 ![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f4891099-a78b-4b80-a722-5e54976b1864)
 
 
-- **ACTIONS_RUNNER_DEBUG**: ``true`
+- **ACTIONS_RUNNER_DEBUG**: `true`
+  - >"ACTIONS_RUNNER_DEBUG" is an environment variable that, when set to "true," enables debug logging for the self-hosted GitHub Actions runner. This can be useful for troubleshooting issues related to the execution of GitHub Actions workflows on self-hosted runners.
 - **ACTIONS_STEP_DEBUG**: `true`
 
 ## Requirement
