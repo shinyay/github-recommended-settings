@@ -118,7 +118,10 @@ Overview
 
 #### Code scanning
 
+Code scanning, powered by CodeQL, automatically analyzes your code for security vulnerabilities, coding errors, and other potential issues, providing actionable insights to help improve the overall security and quality of your software.
 
+- **CodeQL analysis**: `Default`
+  - >Enabling "Code scanning" with "CodeQL analysis" set to "Default" is a proactive approach to identifying and addressing potential security vulnerabilities and code quality issues in your codebase.
 
 ## Requirement
 
