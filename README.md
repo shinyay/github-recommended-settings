@@ -37,6 +37,7 @@ Overview
 ![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f26dc6f3-1f50-4a4e-923a-ed532c7a8a69)
 
 - **Always suggest updating pull request branches**: `On`
+  - >Enabling the "Always suggest updating pull request branches" setting in GitHub can be beneficial for keeping pull request branches up to date with changes in the base branch. When this setting is enabled, GitHub will automatically suggest updating the pull request branch when it becomes out of date with the base branch, typically due to new commits being added to the base branch.
 
 ## Requirement
 
