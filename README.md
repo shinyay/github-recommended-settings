@@ -134,8 +134,8 @@ Code scanning, powered by CodeQL, automatically analyzes your code for security 
 ![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f4891099-a78b-4b80-a722-5e54976b1864)
 
 
-- **
-- **
+- **ACTIONS_RUNNER_DEBUG**: ``true`
+- **ACTIONS_STEP_DEBUG**: `true`
 
 ## Requirement
 
