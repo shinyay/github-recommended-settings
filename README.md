@@ -44,6 +44,11 @@ Overview
 - **Automatically delete head branches**: `Off`
   - >By enabling this setting, GitHub will automatically delete head branches after pull requests are successfully merged, helping to keep your repository clean and organized.
 
+#### Pushes
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/2ed08a3e-ca87-4e29-bfa9-c9d629669ff1)
+
+- **Limit how many branches and tags can be updated in a single push**: `On`
 
 ## Requirement
 
