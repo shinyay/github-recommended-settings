@@ -105,6 +105,8 @@ Overview
 
 #### Dependabot
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/e9033919-5ffe-4f0c-834d-a4461ef29cb1)
+
 - **Dependabot alerts**: `On`
   - >Dependabot alerts notify you when there are known security vulnerabilities in your project's dependencies, allowing you to promptly address them by updating to patched versions.
 
