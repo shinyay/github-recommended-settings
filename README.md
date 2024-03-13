@@ -101,6 +101,8 @@ Overview
   - >Selecting "Configuration change" ensures that your Codespace environment is automatically updated whenever there is a change in configuration files such as Dockerfile, .devcontainer, or .codespace. This helps to keep your development environment consistent with the latest configuration settings, dependencies, and tooling specified in these files.
   - >Codespaces prebuilds your development environment based on the configuration files before you actually start using it. By triggering a prebuild on configuration changes, Codespaces ensures that any updates or modifications to the development environment are applied proactively, saving time and ensuring a smoother development experience.
 
+### Code security and analysis
+
 ## Requirement
 
 ## Usage
