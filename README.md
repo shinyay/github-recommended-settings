@@ -39,6 +39,12 @@ Overview
 - **Always suggest updating pull request branches**: `On`
   - >Enabling the "Always suggest updating pull request branches" setting in GitHub can be beneficial for keeping pull request branches up to date with changes in the base branch. When this setting is enabled, GitHub will automatically suggest updating the pull request branch when it becomes out of date with the base branch, typically due to new commits being added to the base branch.
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f6c330f9-a03f-4149-a663-958a7707535d)
+
+- **Automatically delete head branches**: `Off`
+  - >By enabling this setting, GitHub will automatically delete head branches after pull requests are successfully merged, helping to keep your repository clean and organized.
+
+
 ## Requirement
 
 ## Usage
