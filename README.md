@@ -137,6 +137,7 @@ Code scanning, powered by CodeQL, automatically analyzes your code for security 
 - **ACTIONS_RUNNER_DEBUG**: `true`
   - >"ACTIONS_RUNNER_DEBUG" is an environment variable that, when set to "true," enables debug logging for the self-hosted GitHub Actions runner. This can be useful for troubleshooting issues related to the execution of GitHub Actions workflows on self-hosted runners.
 - **ACTIONS_STEP_DEBUG**: `true`
+  - >"ACTIONS_STEP_DEBUG" is an environment variable that, when set to "true," enables debug logging for individual steps within GitHub Actions workflows. This can help you diagnose problems with specific workflow steps and identify issues with commands or scripts being executed.
 
 ## Requirement
 
