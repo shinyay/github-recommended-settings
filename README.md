@@ -14,6 +14,7 @@ Overview
 
 - **Template repository**: `On`
 - **Require contributors to sign off on web-based commits**: `On`
+  - >"Require contributors to sign off on web-based commits" adds an additional layer of acknowledgment to commits made through the GitHub web interface. When contributors sign off on commits, they are essentially agreeing to certify that they have the right to submit the code and are licensing it under the project's open-source license.
 
 ## Requirement
 
