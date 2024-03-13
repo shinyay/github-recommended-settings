@@ -88,7 +88,7 @@ Overview
 - **Actions permissions**: `Allow OWNER, and select non-OWNER, actions and reusable workflows`
 - **Allow actions created by GitHub**: `On`
 - **Allow actions by Marketplace verified creators**: `On`
-  - >
+  - >This setting allows repository owners to run actions and reusable workflows, as well as selected non-owners who are explicitly granted permission. It provides flexibility by allowing non-owners to access specified actions and workflows, which can be useful for collaborative projects where contributors need to execute certain tasks.
 
 ## Requirement
 
