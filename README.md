@@ -8,8 +8,11 @@ Overview
 
 ## Features
 
-- feature:1
-- feature:2
+### General
+
+#### General
+
+- **Template repository**: On
 
 ## Requirement
 
