@@ -60,6 +60,15 @@ Overview
 - **Limit to users explicitly granted read or higher access**: `On`
   - >By enabling this setting, you ensure that access to your repository is tightly controlled and restricted to only those users who have been explicitly granted read or higher access permissions. This helps protect sensitive information, maintain compliance with security standards, and reduce the risk of unauthorized access or data breaches. 
 
+### Branches
+
+- **Branch name pattern**: `main`
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/e8999e40-6734-44f4-9ed5-e671102f8ae9)
+
+- **Dismiss stale pull request approvals when new commits are pushed**: `On`
+  - >Enabling the "Dismiss stale pull request approvals when new commits are pushed" option in the "Require a pull request before merging" setting can be beneficial for maintaining the integrity and quality of your codebase. When this option is enabled, GitHub automatically dismisses stale pull request approvals whenever new commits are pushed to the branch associated with the pull request. This helps ensure that pull requests are reviewed against the latest changes and prevents outdated approvals from misleading the merge process.
+
 ## Requirement
 
 ## Usage
