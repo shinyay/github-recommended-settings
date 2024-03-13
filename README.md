@@ -12,9 +12,16 @@ Overview
 
 #### General
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/9d90dd95-94b4-49f9-987a-30fef1f6dafc)
+
 - **Template repository**: `On`
 - **Require contributors to sign off on web-based commits**: `On`
   - >"Require contributors to sign off on web-based commits" adds an additional layer of acknowledgment to commits made through the GitHub web interface. When contributors sign off on commits, they are essentially agreeing to certify that they have the right to submit the code and are licensing it under the project's open-source license.
+
+#### Features
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/4a86cc54-5d41-434f-b2ba-2b4c9e343678)
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/52bb6570-38bf-420a-b317-61e8a754a8b3)
 
 ## Requirement
 
