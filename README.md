@@ -69,6 +69,11 @@ Overview
 - **Dismiss stale pull request approvals when new commits are pushed**: `On`
   - >Enabling the "Dismiss stale pull request approvals when new commits are pushed" option in the "Require a pull request before merging" setting can be beneficial for maintaining the integrity and quality of your codebase. When this option is enabled, GitHub automatically dismisses stale pull request approvals whenever new commits are pushed to the branch associated with the pull request. This helps ensure that pull requests are reviewed against the latest changes and prevents outdated approvals from misleading the merge process.
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/4922dd92-d6c4-4241-913e-ccdb9e46fadb)
+
+- **Require branches to be up to date before merging**: `On`
+  - >Enabling the "Require branches to be up to date before merging" option in the "Require status checks to pass before merging" setting is generally a good practice, especially in collaborative development environments. When this option is enabled, GitHub ensures that the target branch of a pull request is up to date with the latest changes from the base branch before allowing the pull request to be merged. This helps maintain code consistency and prevents merging of outdated branches that may conflict with the latest changes in the base branch.
+
 ## Requirement
 
 ## Usage
