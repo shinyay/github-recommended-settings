@@ -111,6 +111,9 @@ Overview
 - **Dependabot security updates**: `On`
   - >Enabling "Dependabot security" updates is highly recommended for maintaining the security of your project's dependencies. Dependabot security updates automatically open pull requests to update vulnerable dependencies to their latest secure versions whenever security vulnerabilities are detected.
 
+- **Dependabot version updates**: `On`
+  - >
+
 #### Code scanning
 
 
