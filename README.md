@@ -74,6 +74,13 @@ Overview
 - **Require branches to be up to date before merging**: `On`
   - >Enabling the "Require branches to be up to date before merging" option in the "Require status checks to pass before merging" setting is generally a good practice, especially in collaborative development environments. When this option is enabled, GitHub ensures that the target branch of a pull request is up to date with the latest changes from the base branch before allowing the pull request to be merged. This helps maintain code consistency and prevents merging of outdated branches that may conflict with the latest changes in the base branch.
 
+### Tags
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f6fc3d43-8935-4398-a3a0-65139d1ef437)
+
+- **Tag name pattern**: `[0-9].[0-9].[0-9]`
+  - >Setting a "Tag name pattern" in GitHub can be helpful for enforcing a specific naming convention for tags, such as those used in semantic versioning. Semantic versioning typically follows the pattern major.minor.patch, where each component represents a different level of change in the software.
+
 ## Requirement
 
 ## Usage
