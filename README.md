@@ -26,6 +26,13 @@ Overview
 - **Discussions**: `On`
   - >"Discussions" is a feature that allows community members to engage in threaded conversations directly within a repository. It's particularly useful for fostering collaboration, gathering feedback, and building a sense of community around your project.
 
+#### Pull Request
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/404edc4e-5ace-420d-b493-b1b7fa480abb)
+
+- **Allow rebase merging**: `Off`
+  - >
+
 ## Requirement
 
 ## Usage
