@@ -55,7 +55,10 @@ Overview
 
 #### Code review limits
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/5fa00423-154c-4d25-99d5-16cfe52b8800)
+
 - **Limit to users explicitly granted read or higher access**: `On`
+  - >By enabling this setting, you ensure that access to your repository is tightly controlled and restricted to only those users who have been explicitly granted read or higher access permissions. This helps protect sensitive information, maintain compliance with security standards, and reduce the risk of unauthorized access or data breaches. 
 
 ## Requirement
 
