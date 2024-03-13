@@ -12,7 +12,8 @@ Overview
 
 #### General
 
-- **Template repository**: On
+- **Template repository**: `On`
+- **Require contributors to sign off on web-based commits**: `On`
 
 ## Requirement
 
