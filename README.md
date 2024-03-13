@@ -51,6 +51,12 @@ Overview
 - **Limit how many branches and tags can be updated in a single push**: `On`
   - >By enabling this setting, you can add an extra layer of protection to your repository and reduce the likelihood of accidental or unauthorized changes to multiple branches or tags in a single push operation. 
 
+### Moderation options
+
+#### Code review limits
+
+- **Limit to users explicitly granted read or higher access**: `On`
+
 ## Requirement
 
 ## Usage
