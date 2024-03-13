@@ -125,6 +125,18 @@ Code scanning, powered by CodeQL, automatically analyzes your code for security 
 - **CodeQL analysis**: `Default`
   - >Enabling "Code scanning" with "CodeQL analysis" set to "Default" is a proactive approach to identifying and addressing potential security vulnerabilities and code quality issues in your codebase.
 
+### Secret and variables
+
+#### Repository secrets
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/fa61b752-5cd7-407d-9d68-4aefaa731d06)
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/eddc093d-12d5-4759-ac2e-08c3bb00ba4b)
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/f4891099-a78b-4b80-a722-5e54976b1864)
+
+
+- **
+- **
+
 ## Requirement
 
 ## Usage
