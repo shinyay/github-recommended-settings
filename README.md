@@ -103,6 +103,11 @@ Overview
 
 ### Code security and analysis
 
+#### Dependabot
+
+- **Dependabot alerts**: `On`
+  - >Enabling "Dependabot alerts" is generally a good practice for keeping your project's dependencies up-to-date and ensuring the security of your codebase. Dependabot alerts notify you when there are known security vulnerabilities in your project's dependencies, allowing you to promptly address them by updating to patched versions.
+
 ## Requirement
 
 ## Usage
