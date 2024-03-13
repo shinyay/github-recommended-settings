@@ -81,6 +81,15 @@ Overview
 - **Tag name pattern**: `[0-9].[0-9].[0-9]`
   - >Setting a "Tag name pattern" in GitHub can be helpful for enforcing a specific naming convention for tags, such as those used in semantic versioning. Semantic versioning typically follows the pattern major.minor.patch, where each component represents a different level of change in the software.
 
+### Actions
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/ff033ee4-5159-4a5b-af5b-36b6b9e5ee99)
+
+- **Actions permissions**: `Allow OWNER, and select non-OWNER, actions and reusable workflows`
+- **Allow actions created by GitHub**: `On`
+- **Allow actions by Marketplace verified creators**: `On`
+  - >
+
 ## Requirement
 
 ## Usage
