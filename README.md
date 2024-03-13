@@ -90,6 +90,14 @@ Overview
 - **Allow actions by Marketplace verified creators**: `On`
   - >This setting allows repository owners to run actions and reusable workflows, as well as selected non-owners who are explicitly granted permission. It provides flexibility by allowing non-owners to access specified actions and workflows, which can be useful for collaborative projects where contributors need to execute certain tasks.
 
+### Codespaces
+
+#### Access and cost contro;
+
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/6ab91c3b-fe9b-4e35-a52c-878c4f7a4845)
+
+- **Prebuild triggers**: `Configuration change`
+
 ## Requirement
 
 ## Usage
