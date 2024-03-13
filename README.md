@@ -49,6 +49,7 @@ Overview
 ![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/2ed08a3e-ca87-4e29-bfa9-c9d629669ff1)
 
 - **Limit how many branches and tags can be updated in a single push**: `On`
+  - >By enabling this setting, you can add an extra layer of protection to your repository and reduce the likelihood of accidental or unauthorized changes to multiple branches or tags in a single push operation. 
 
 ## Requirement
 
