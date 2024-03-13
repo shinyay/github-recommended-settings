@@ -31,7 +31,8 @@ Overview
 ![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/404edc4e-5ace-420d-b493-b1b7fa480abb)
 
 - **Allow rebase merging**: `Off`
-  - >
+  - >"Allow rebase merging" is a feature in GitHub that allows users to merge pull requests using the "Rebase and merge" option. Rebase merging is a technique where the changes in the pull request are applied on top of the latest changes in the target branch, resulting in a cleaner and linear commit history.
+  - >By disabling rebase merging, GitHub will only allow traditional merge commits when merging pull requests. This can help maintain a more straightforward history and avoid any unintended consequences associated with rebase operations.
 
 ## Requirement
 
