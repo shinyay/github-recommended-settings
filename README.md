@@ -118,6 +118,8 @@ Overview
 
 #### Code scanning
 
+![image](https://github.com/shinyay/github-recommended-settings/assets/3072734/fd9840f5-5fc5-41aa-9454-920b5f3d4cf5)
+
 Code scanning, powered by CodeQL, automatically analyzes your code for security vulnerabilities, coding errors, and other potential issues, providing actionable insights to help improve the overall security and quality of your software.
 
 - **CodeQL analysis**: `Default`
