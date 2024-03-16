@@ -1,4 +1,4 @@
-# Name
+# GitHub Recommended Settings
 
 Overview
 
